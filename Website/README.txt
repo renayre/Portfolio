@@ -8,4 +8,6 @@ Error Message:
 
 I changed the order of the user emails and passwords in users.csv to match with the order of my table columns. 
 
-Login info can be found in includes/users.csv
+Login info can be found in includes/users.
+
+SQL Code for tables can be found in misc. 
