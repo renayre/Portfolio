@@ -13,4 +13,4 @@ Website (PHP, HTML, CSS) - Features include login (pw hashing/verification), pag
   - Base code from professor of course, WebTest_Basic, is a recreation of the code provided 
   - Some Javascript, JSON, and AJAX
   
-WebTest_Basic - recreation of code provided in Website project. 
+WebTest_Basic (PHP, HTML, CSS) - recreation of code provided in Website project. 
