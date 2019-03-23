@@ -7,3 +7,5 @@ Error Message:
 	- I made the text a little bigger, bolded and colored the text red. I placed it right above the username field so it is in a central location and adds to the readability. 
 
 I changed the order of the user emails and passwords in users.csv to match with the order of my table columns. 
+
+Login info can be found in includes/users.csv
