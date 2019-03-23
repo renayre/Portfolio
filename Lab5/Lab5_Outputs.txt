@@ -1,0 +1,135 @@
+Renayre Forbes (B00787109) CSCI 2110 Lab 5 
+
+Ex1. 
+
+Factorial (1-10): 
+1
+2
+6
+24
+120
+720
+5040
+40320
+362880
+3628800
+Fib series: 
+0
+1
+1
+2
+3
+5
+8
+13
+21
+34
+55
+89
+144
+233
+377
+610
+987
+1597
+2584
+4181
+6765
+For Powers(x^n) Enter x and n:
+4 6
+4096
+
+
+Ex2. 
+
+Please enter a starting number
+10
+10	9	8	7	6	5	4	3	2	1	Blast off!
+
+
+Ex 3
+
+Please enter a starting number
+5
+5	3	1	Blast Off!
+
+Please enter a starting number
+12
+12	10	8	6	4	2	Blast Off!
+
+Please enter a starting number
+9
+9	7	5	3	1	Blast Off!
+
+
+Ex4
+
+Enter n m:
+5 6
+5	10	15	20	25	30	
+
+
+Enter n m:
+9 1
+9	
+
+
+Enter n m:
+7 4
+7	14	21	28	
+
+
+
+Ex 5
+
+Enter a number:
+635789
+6
+3
+5
+7
+8
+9
+
+Enter a number:
+4572
+4
+5
+7
+2
+
+
+Ener a number:
+23200
+2
+3
+2
+0
+0
+
+
+Ex 6
+
+Enter a number:
+4
+30
+
+Enter a number:
+8
+204
+
+Enter a number:
+2
+5
+
+
+
+Ex 7
+
+8 - 2553
+12 - 1488
+16 - 2299
+20 - 1964
+24 - 2188
+28 - 1780
+32 - 12229
