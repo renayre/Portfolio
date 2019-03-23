@@ -1,0 +1,25 @@
+The Bootstrap template used in this website is named "Jumbotron". It was downloaded from the Bootstrap examples website: http://getbootstrap.com/docs/4.1/examples/jumbotron/
+Accessed on 05 Feb 2019.
+
+
+Content for this website has been downloaded from https://www.lipsum.com 
+Accessed on 05 Feb 2019.
+
+
+The session destroy code is considered to be standard / best-practice implementation.
+It is available as Example #1 on: http://php.net/manual/en/function.session-destroy.php
+Accessed on 16 Feb 2019.
+
+
+Renayre: 
+
+Forms. (n.d.). Retrieved January 30, 2019, from https://getbootstrap.com/docs/4.0/components/forms/ 
+
+How TO - Hoverable Dropdown. (n.d.). Retrieved March 21, 2019, from https://www.w3schools.com/howto/howto_css_dropdown.asp 
+
+Jain, A. (2010, June 11). JQuery: Send JSON Objects with an Ajax Request. Retrieved March 21, 2019, from http://www.tothenew.com/blog/jquery-send-json-object-with-an-ajax-request/
+
+RGriffiths. “Reading .Csv into a PHP Array.” Stack Overflow, stackoverflow.com/questions/29711088/reading-csv-into-a-php-array.
+
+Soni, S. (2019, January 7). How to Use AJAX in PHP and jQuery. Retrieved March 21, 2019, from https://code.tutsplus.com/tutorials/how-to-use-ajax-in-php-and-jquery--cms-32494
+
