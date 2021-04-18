@@ -63,7 +63,7 @@ export const SignInPage = (props: IProps):JSX.Element => {
         return(
     <Form>
       <Grid container direction='column' justify='center' alignItems='center'>
-<Typography className={classes.signInMessage}>Welcome! Please enter 'password' to enter</Typography>
+<Typography className={classes.signInMessage}>Welcome! Please type in 'password' to enter</Typography>
       <Field name='password' type='password' className={classes.passwordField} required variant='outlined' label="Password" component={TextField}/>
       {isSubmitting ? 
       LoadingSymbol 
