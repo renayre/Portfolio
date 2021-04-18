@@ -1,13 +1,14 @@
 # Professional Portfolio
 Sample work from freelance and professional work
 
-**Wedding Template** - Website for various wedding announcements. Template accomodates site versions for 'Save the Date', Wedding Ceremony Details, and Gallery display. Built with React, Javascript, Typescript, NodeJs. Demo hosted on AWS.  
+[**Wedding Template**](https://master.didz29qx6ou5y.amplifyapp.com/) - Website for various wedding announcements. Template accomodates site versions for 'Save the Date', Wedding Ceremony Details, and Gallery display. Mobile responsive design. Built with React, Javascript, Typescript, NodeJs. Demo hosted on AWS. [DEMO HERE!](https://master.didz29qx6ou5y.amplifyapp.com/)
+
 
 
 # UI Design Portfolio
 Sample wireframe work from academic work and freelance work
 
-[**Mobile Shopping App Fragment**](https://www.figma.com/file/JN8mFyPhEio01lzfQLvhnp/Mobile-Shop-Cart-Checkout-Search) - the cart page, checkout page, and search page of a mobile shopping application. Built with Adobe XD 
+[**Mobile Shopping App Fragment**](https://www.figma.com/file/JN8mFyPhEio01lzfQLvhnp/Mobile-Shop-Cart-Checkout-Search) - the cart page, checkout page, and search page of a mobile shopping application. Built with Adobe XD. 
 
 [**Basic Administration Portal**](https://www.figma.com/file/UZtp5BEkjeMGFnC6eEf7AD/AdminPortal?node-id=0%3A1) - survey management portal (question, and statistic). Built with Figma. 
 
